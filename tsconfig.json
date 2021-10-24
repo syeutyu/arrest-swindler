@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2019",
+      "noImplicitAny": true,
+      "sourceMap": true,
+      "outDir": "dst",
+      "strict": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "resolveJsonModule": true,
+      "noUnusedLocals": true,
+      "lib": [
+          "es2019",
+          "es2020.promise"
+      ]
+  },
+  "exclude": [
+      "**/__test__/"
+  ],
+  "include": [
+      "src/**/*"
+  ]
+}
