@@ -4,6 +4,10 @@
 # 사용법
 ```
 npx arrest-swindler
+
+or
+
+npm i -g arrest-swindler && arrest-swindler
 ```
 
 # 개발 사유

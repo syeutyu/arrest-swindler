@@ -1,6 +1,6 @@
 {
   "name": "arrest-swindler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prearrest swindler",
   "main": "dst/cli.js",
   "bin": "./bin/arrest-swinder.js",
